@@ -34,7 +34,8 @@ To work on hEXabyte, you need Python and the necessary libraries.
 
 Clone the Repository:
 
-    git clone https://github.com/Jhafer-studios/hEXabyte.git cd hEXabyte
+    git clone https://github.com/Jhafer-studios/hEXabyte.git 
+    cd hEXabyte
 
 Create a Virtual Environment: (Recommended)
 
